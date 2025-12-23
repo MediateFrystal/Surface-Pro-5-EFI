@@ -13,8 +13,8 @@
 * **版本 7**  
   **EFI 12.5 Mod 7.7z**
 
-  [**蓝奏云**](https://www.lanzout.com/irWWH3e8vufc)  
-  [**GitHub Releases**](https://github.com/MediateFrystal/Surface-Pro-5-EFI/releases)  
+  * [**蓝奏云**](https://www.lanzout.com/irWWH3e8vufc)  
+  * [**GitHub Releases**](https://github.com/MediateFrystal/Surface-Pro-5-EFI/releases)  
 
 ## 正常工作
 
@@ -22,11 +22,13 @@
 * **Type Cover 触摸板 & 触摸板手势**
 * **合盖检测**
 * **SD卡**
-* **扬声器 & 3.5mm 接口**
+* **扬声器**
+* **3.5mm 接口**
 * **麦克风**
 * **侧边按钮**
 * **丝滑的亮度调节**
 * **触屏^^**
+* **直边有一个按钮的 Surface Pen 触控笔**
 * **Surface Dock 1 上的 USB、电源和以太网接口**
 
 **触屏^^ 需要手动配置才工作：**
@@ -36,7 +38,9 @@
 ## 不工作
 
 * **Type Cover 上 CapsLock 指示灯不亮**
-* **主板上的无线网卡（WiFi 蓝牙）**
+* **前后摄像头**
+* **内置无线网卡（WiFi 蓝牙）**
+* **Surface Pen 触控笔 压力感应**
 * **Surface Dock 1 上的 3.5mm 接口**
 
 ## 未测试
