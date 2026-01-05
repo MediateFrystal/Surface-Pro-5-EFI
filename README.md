@@ -10,6 +10,7 @@
 
 ## 下载
 
+* 注：简介随时更新，压缩包中的简介不是最新版本，请以博客页面为准
 * **版本 7**  
   **EFI 12.5 Mod 7.7z**
 
@@ -18,26 +19,26 @@
 
 ## 正常工作
 
-* **Type Cover 键盘**
-* **Type Cover 触摸板 & 触摸板手势**
+* **Type Cover 键盘、触摸板及触摸板手势**
 * **合盖检测**
 * **SD卡**
 * **扬声器**
 * **3.5mm 接口**
+* **mini DP 接口**
 * **麦克风**
 * **侧边按钮**
 * **丝滑的亮度调节**
 * **触屏^^**
 * **直边有一个按钮的 Surface Pen 触控笔**
-* **Surface Dock 1 上的 USB、电源和以太网接口**
+* **Surface Dock 1（包括USB、电源、mini DP和以太网接口）**
 
-**触屏^^ 需要手动配置才工作：**
+**触屏^^：需要手动配置才工作**
 
-下载 [Xiashangning/IPTSDaemon](https://github.com/Xiashangning/IPTSDaemon)。用终端运行 `install_daemon.sh`，运行后立刻生效。
+* 下载 [Xiashangning/IPTSDaemon](https://github.com/Xiashangning/IPTSDaemon)。用终端运行 `install_daemon.sh`，运行后立刻生效。
 
 ## 不工作
 
-* **Type Cover 上 CapsLock 指示灯不亮**
+* **Type Cover 上 CapsLock 指示灯无法打开/关闭**
 * **前后摄像头**
 * **内置无线网卡（WiFi 蓝牙）**
 * **Surface Pen 触控笔 压力感应**
@@ -45,27 +46,16 @@
 
 ## 未测试
 
-* **mini DP 接口**
-* **Surface Dock 1 上的 mini DP 接口**
+* 暂无
 
-## 参考过的 EFI
+## 参考文献
 
-* 微软Surface Pro 5.zip
+**[1] 【完美黑果】微软Surface Pro 5笔记本EFI引导文件分享. *微软Surface Pro 5.zip* [DB/OL]. 远景论坛，2025. https://bbs.pcbeta.com/viewthread-2046955-1-1.html**  
 
-  [【完美黑果】微软Surface Pro 5笔记本EFI引导文件分享 - 远景论坛](https://bbs.pcbeta.com/viewthread-2046955-1-1.html)
+**[2] 【EFI分享】Surface Pro 2017（sp5）10.15 HiDPI可用EFI出炉！ *EFI 15.4.zip* [DB/OL]. 远景论坛，2019. https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1830095**  
 
-* EFI 15.4.zip
+**[3] Microsoft Surface Pro 5 (1796) open core - DSDT & Patch Requests. *Surface-Pro-5-1796-EFI.zip* [DB/OL]. Olarila Hackintosh Forum，2023. https://olarila.com/topic/31985-microsoft-surface-pro-5-1796-open-core/**  
 
-  [【EFI分享】Surface Pro 2017（sp5）10.15 HiDPI可用EFI出炉！ - surface - 远景论坛](https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1830095)
+**[4] MrHomebrew/Surface-Pro-2017-OpenCore-EFI. *Surface-Pro-2017-OpenCore-EFI-master.zip* [G/OL]. GitHub，2020. https://github.com/MrHomebrew/Surface-Pro-2017-OpenCore-EFI**  
 
-* Surface-Pro-5-1796-EFI.zip
-
-  [Microsoft Surface Pro 5 (1796) open core - DSDT & Patch Requests - Hackintosh Olarila](https://olarila.com/topic/31985-microsoft-surface-pro-5-1796-open-core/)
-
-* Surface-Pro-2017-OpenCore-EFI-master.zip
-
-  [MrHomebrew/Surface-Pro-2017-OpenCore-EFI: Surface Pro 2017 i5 HD620 OpenCore EFI for 10.15.6 and 10.15.7 + Big Sur](https://github.com/MrHomebrew/Surface-Pro-2017-OpenCore-EFI)
-
-* EFI-OC0.75-Mod-Monterey12.0.1含主题及安全启动.zip
-
-  [\[22/07/09更新\]Surface pro6 OC0.82-mod 12.4电池按键触屏可用 - 远景论坛](https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1884975)
+**[5] [22/07/09更新]Surface pro6 OC0.82-mod 12.4电池按键触屏可用. *EFI-OC0.75-Mod-Monterey12.0.1含主题及安全启动.zip* [DB/OL]. 远景论坛, 2021. https://bbs.pcbeta.com/viewthread&tid=1884975**
